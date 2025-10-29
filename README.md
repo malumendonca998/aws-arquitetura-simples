@@ -37,7 +37,7 @@ Este repositório apresenta um **exemplo de arquitetura na AWS**, com diagrama i
 
 ## 🖼️ Diagrama da Arquitetura
 
-![Diagrama da Arquitetura AWS](https://github.com/malumendonca998/aws-arquitetura-simples/blob/main/diagrama-aws.png?raw=true)
+![Diagrama da Arquitetura AWS](diagrama-aws.png)
 
 
 ---
