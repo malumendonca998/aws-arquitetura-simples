@@ -30,8 +30,8 @@ Este repositório contém um diagrama de arquitetura desenvolvido para represent
 ---
 
 ## 🖼️ Diagrama
+![Diagrama da Arquitetura AWS](./diagrama-aws.png)
 
-![Diagrama da Arquitetura AWS](diagrama-aws.png)
 
 
 
