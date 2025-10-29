@@ -31,7 +31,7 @@ Este repositório contém um diagrama de arquitetura desenvolvido para represent
 
 ## 🖼️ Diagrama
 
-![Arquitetura AWS](3d_yellow_heart_shape_balloons.jpg)
+![Diagrama da Arquitetura AWS](diagrama-aws.png)
 
 
 
