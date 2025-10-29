@@ -34,7 +34,6 @@ Este repositório apresenta um **exemplo de arquitetura na AWS**, com diagrama i
 5. As respostas são entregues novamente via CloudFront ao usuário final.
 
 ---
-![Diagrama da Arquitetura AWS](https://github.com/malumendonca998/aws-arquitetura-simples/blob/main/diagrama-aws.png?raw=true)
 
 ## 🖼️ Diagrama da Arquitetura
 
